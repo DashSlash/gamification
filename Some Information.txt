@@ -1,0 +1,3 @@
+The project of gamification has a completed version in link:
+http://www.kongregate.com/games/Tukkun/anti-idle-the-game?acomplete=anti
+We are going to extend the core idea of Incremental + mini game into more funs!
